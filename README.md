@@ -1,5 +1,8 @@
 HI😎 I'm Marcus Soares developer Fullstack looking for new technologies and learning it.
 <br/>
+Also Musician professional and searching for technologies "how to create a keyboard and musical instruments", i deepen on this world of technologies,to create my own instruments
+
+<br/>
 Creating projects with:
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
